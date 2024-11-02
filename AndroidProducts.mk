@@ -6,4 +6,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Infinix-X6812.mk
+    $(LOCAL_DIR)/twrp_Infinix-x6812.mk
